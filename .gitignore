@@ -1,0 +1,18 @@
+# Vim runtime artifacts (regenerated on launch)
+.vim/cache/
+.vim/cscope_cache/
+.vim/.netrwhist
+.vim_mru_files
+
+# gutentags / ctags output
+.tags
+tags
+
+# Vim swap / backup
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
